@@ -104,7 +104,8 @@ ol {
 .hero{
     height: 300px;
     /* background-image: url('../imagenes/hero.jpg'); */
-    background-color: #1b2127;
+    background-color:#0f1ccf;
+    /* background-color: #1b2127; */
     
     /* background-size: 500px 300px;
     background-repeat: no-repeat;
@@ -458,6 +459,7 @@ ul{
     .header .logo {
         text-align: center;
     }
+    
     .project{
         display: block;
     }
