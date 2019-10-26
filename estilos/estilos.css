@@ -393,6 +393,9 @@ ul{
     .container{
         padding: 0 1em;
     }
+    .container-brasil{
+        width: auto;
+    }
     .hero{
         height: auto;
         position: relative;
@@ -412,6 +415,10 @@ ul{
     h1 {
         font-size: 2em;
         z-index: 2;
+    }
+    .image-brasil{
+        width: 87%;
+        height: 480px;
     }
 }
 @media screen and (max-width: 767px) {
@@ -493,6 +500,13 @@ ul{
         text-align: center;
         /* border: 2px solid #7DA2F7; */
     }
+    .container-brasil{
+        width: auto;
+    }
+    .image-brasil{
+        width: 87%;
+        height: 420px;
+    }
     .project-details{
         width: auto;
         font-size: 16px;
@@ -525,6 +539,12 @@ ul{
     }
 }
 @media screen and (max-width: 480px) {
+    .image-brasil{
+        width: 100%;
+        padding: 5px;
+        /* background: none; */
+        height: 380px;
+    }
     h2{
         font-size: 20px;
         margin: 10px 0;
@@ -562,6 +582,12 @@ ul{
     }
 }
 @media screen and (max-width: 320px) {
+    .image-brasil{
+        width: 100%;
+        padding: 5px;
+        /* background: none; */
+        height: 300px;
+    }
     .portfolio{
         padding: 0;
     }
