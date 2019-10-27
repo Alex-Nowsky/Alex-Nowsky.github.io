@@ -594,6 +594,11 @@ ul{
         /* background: none; */
         height: 300px;
     }
+    .social-link{
+        font-size: 25px;
+        margin: 0;
+
+    }
     .portfolio{
         padding: 0;
     }
