@@ -505,7 +505,7 @@ ul{
     }
     .image-brasil{
         width: 87%;
-        height: 420px;
+        height: 400px;
     }
     .project-details{
         width: auto;
@@ -543,7 +543,13 @@ ul{
         width: 100%;
         padding: 5px;
         /* background: none; */
-        height: 380px;
+        height: 300px;
+    }
+    .social-link{
+        font-size: 29px;
+        width: 35px;
+        height: 35px;
+        padding: 1.8px;
     }
     h2{
         font-size: 20px;
